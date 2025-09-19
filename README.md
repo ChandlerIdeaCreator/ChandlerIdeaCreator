@@ -52,7 +52,7 @@
 </p>
 <p align="center">
   <!-- Row 2: Frameworks & Libraries -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="60" height="60"/></a>
+    <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original-wordmark.svg" alt="pytorch" width="60" height="60" style="filter: invert(1) brightness(2);"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="60" height="60"/></a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
