@@ -3,7 +3,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/AFdcYElkoNAUE/giphy.gif" width="300"/>
   <h1>
-    Hi there, I'm Qian Changyang
+    Hi there, I'm Changyang Qian
     <a href="https://github.com/Achaak/Achaak"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a>
   </h1>
   <p align="center">
