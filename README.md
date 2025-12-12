@@ -8,7 +8,7 @@
   </h1>
   <p align="center">
     <a href="https://github.com/ChandlerIdeaCreator">
-      <img src="https://streak-stats.demolab.com/?user=ChandlerIdeaCreator&theme=gruvbox&refresh=1" alt="Streak Stats"/>
+      <img src="https://github.com/ChandlerIdeaCreator/ChandlerIdeaCreator/blob/main/metrics.isocalendar.svg" alt="GitHub Isocalendar"/>
     </a>
   </p>
 </div>
