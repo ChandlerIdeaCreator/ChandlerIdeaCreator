@@ -11,9 +11,6 @@ jobs:
       contents: write
     steps:
       # ---------------------------------------------------------
-      # 第一张图：成就徽章 (强力防报错版)
-      # ---------------------------------------------------------
-      # ---------------------------------------------------------
       # 第一张图：成就徽章 (极速白名单版 - 专治 Unexpected error)
       # ---------------------------------------------------------
       - name: Generate Achievements
@@ -24,27 +21,25 @@ jobs:
           committer_token: ${{ secrets.METRICS_TOKEN }}
           user: ChandlerIdeaCreator
           
+          # 基础设置：空，只生成图标
           base: ""
           config_theme: gruvbox
           
+          # 容错设置
           retries: 3
           retries_delay: 300
           
+          # 成就配置
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: no
           plugin_achievements_threshold: B
           
-          # 【核心修改】不要用 ignored，改用 only！
-          # 强制只计算这 4 个最简单的成就，不扫描历史代码
-          # polyglot: 使用多种语言
-          # stargazer: 项目被标星
-          # fork: Fork 了别人的项目
-          # follower: 有粉丝
+          # 【核心修改】只计算这 4 个最简单的成就，绝对不会超时
           plugin_achievements_only: polyglot, stargazer, fork, follower
 
       # ---------------------------------------------------------
-      # 第二张图：统计卡片 (你觉得最好的那个版本)
+      # 第二张图：统计卡片 (你最满意的极简版本)
       # ---------------------------------------------------------
       - name: Generate Stats & Langs
         uses: lowlighter/metrics@latest
