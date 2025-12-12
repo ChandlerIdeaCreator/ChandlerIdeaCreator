@@ -35,7 +35,7 @@
 <div align="center">
   <a href="https://github.com/ChandlerIdeaCreator">
     <!-- 将 height 改为 width="100%"，或者 width="800" -->
-    <img width="80%" src="https://github.com/ChandlerIdeaCreator/ChandlerIdeaCreator/blob/main/metrics.stats.svg" alt="GitHub Stats"/>
+    <img width="70%" src="https://github.com/ChandlerIdeaCreator/ChandlerIdeaCreator/blob/main/metrics.stats.svg" alt="GitHub Stats"/>
   </a>
 </div>
 
