@@ -34,8 +34,8 @@
 <!-- Replace YOUR-GITHUB-USERNAME with your actual GitHub username -->
 <div align="center">
   <a href="https://github.com/ChandlerIdeaCreator">
-    <!-- 将 height 改为 width="100%"，或者 width="800" -->
-    <img width="70%" src="https://github.com/ChandlerIdeaCreator/ChandlerIdeaCreator/blob/main/metrics.stats.svg" alt="GitHub Stats"/>
+    <!-- 400 是图片的原始设计宽度，看起来最清晰自然 -->
+    <img width="500" src="https://github.com/ChandlerIdeaCreator/ChandlerIdeaCreator/blob/main/metrics.stats.svg" alt="GitHub Stats"/>
   </a>
 </div>
 
