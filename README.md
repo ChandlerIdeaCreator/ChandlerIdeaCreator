@@ -7,9 +7,9 @@
     <a href="https://github.com/Achaak/Achaak"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a>
   </h1>
   <p align="center">
-<a href="https://github.com/ChandlerIdeaCreator">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChandlerIdeaCreator&theme=gruvbox&column=7" alt="GitHub Trophies"/>
-</a>
+    <a href="https://github.com/ChandlerIdeaCreator">
+      <img src="https://github-profile-achievements.vercel.app/?username=ChandlerIdeaCreator&theme=gruvbox" alt="GitHub Achievements"/>
+    </a>
   </p>
 </div>
 
