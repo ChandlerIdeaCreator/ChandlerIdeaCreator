@@ -8,7 +8,7 @@
   </h1>
   <p align="center">
     <a href="https://github.com/ChandlerIdeaCreator">
-      <img src="https://github-profile-achievements.vercel.app/?username=ChandlerIdeaCreator&theme=gruvbox" alt="GitHub Achievements"/>
+      <img src="https://streak-stats.demolab.com/?user=ChandlerIdeaCreator&theme=gruvbox"/>
     </a>
   </p>
 </div>
