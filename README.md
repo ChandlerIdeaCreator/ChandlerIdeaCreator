@@ -7,12 +7,7 @@
     <a href="https://github.com/Achaak/Achaak"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></a>
   </h1>
   
-  <!-- 3D 彩虹图 (已调整为 50% 宽度) -->
-  <p align="center">
-    <a href="https://github.com/ChandlerIdeaCreator">
-      <img width="50%" src="https://github.com/ChandlerIdeaCreator/ChandlerIdeaCreator/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions"/>
-    </a>
-  </p>
+
 </div>
 
 ---
@@ -32,7 +27,12 @@
 
 <!-- 3. GitHub Stats Section -->
 ### 📊 My GitHub Stats
-
+  <!-- 3D 彩虹图 (已调整为 50% 宽度) -->
+  <p align="center">
+    <a href="https://github.com/ChandlerIdeaCreator">
+      <img width="50%" src="https://github.com/ChandlerIdeaCreator/ChandlerIdeaCreator/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions"/>
+    </a>
+  </p>
 <!-- Replace YOUR-GITHUB-USERNAME with your actual GitHub username -->
 <div align="center">
   <a href="https://github.com/ChandlerIdeaCreator">
