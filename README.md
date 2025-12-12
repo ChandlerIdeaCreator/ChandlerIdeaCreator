@@ -8,7 +8,7 @@
   </h1>
   <p align="center">
     <a href="https://github.com/ChandlerIdeaCreator">
-      <img src="https://streak-stats.demolab.com/?user=ChandlerIdeaCreator&theme=gruvbox"/>
+      <img src="https://streak-stats.demolab.com/?user=ChandlerIdeaCreator&theme=gruvbox&refresh=1" alt="Streak Stats"/>
     </a>
   </p>
 </div>
