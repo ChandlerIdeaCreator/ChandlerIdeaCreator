@@ -34,8 +34,8 @@
 <!-- Replace YOUR-GITHUB-USERNAME with your actual GitHub username -->
 <div align="center">
   <a href="https://github.com/ChandlerIdeaCreator">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ChandlerIdeaCreator&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChandlerIdeaCreator&layout=compact&langs_count=7&theme=gruvbox"/>
+    <!-- 链接指向你自己仓库生成的图片 -->
+    <img height="180em" src="https://github.com/ChandlerIdeaCreator/ChandlerIdeaCreator/blob/main/metrics.stats.svg" alt="GitHub Stats"/>
   </a>
 </div>
 
