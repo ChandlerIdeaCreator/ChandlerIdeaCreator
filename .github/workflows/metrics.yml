@@ -26,8 +26,8 @@ jobs:
           config_theme: nightowl
           
           plugin_isocalendar: yes
-          # 【关键修改2】改成 full-year，显示整整一年的数据，城市更宏大
-          plugin_isocalendar_duration: full-year
+
+          plugin_isocalendar_duration: half-year
 
       # ---------------------------------------------------------
       # 第二张图：极简统计卡片 (保留 Gruvbox 风格)
