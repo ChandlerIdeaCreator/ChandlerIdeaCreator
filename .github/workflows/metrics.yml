@@ -11,7 +11,7 @@ jobs:
       contents: write
     steps:
       # ---------------------------------------------------------
-      # 第一张图：3D 霓虹大都会 (Isocalendar)
+      # 第一张图：赛博朋克 3D 城市
       # ---------------------------------------------------------
       - name: Generate Isocalendar
         uses: lowlighter/metrics@latest
@@ -22,15 +22,15 @@ jobs:
           user: ChandlerIdeaCreator
           
           base: ""
-          # 【关键修改1】使用 nightowl 主题，颜色更亮丽，像霓虹灯
-          config_theme: nightowl
+          # 【核心修改】使用 radical 主题 (霓虹黑客风)
+          config_theme: radical
           
           plugin_isocalendar: yes
-
-          plugin_isocalendar_duration: half-year
+          # 【核心修改】显示整年，让城市看起来更宏伟
+          plugin_isocalendar_duration: full-year
 
       # ---------------------------------------------------------
-      # 第二张图：极简统计卡片 (保留 Gruvbox 风格)
+      # 第二张图：统计卡片 (保持 Gruvbox 复古风，形成对比)
       # ---------------------------------------------------------
       - name: Generate Stats & Langs
         uses: lowlighter/metrics@latest
@@ -41,7 +41,6 @@ jobs:
           user: ChandlerIdeaCreator
           
           base: header, metadata
-          # 这一张保持你原来的复古风格
           config_theme: gruvbox
           
           plugin_languages: yes
