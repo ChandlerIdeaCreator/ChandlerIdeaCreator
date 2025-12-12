@@ -30,7 +30,7 @@
   <!-- 3D 彩虹图 (已调整为 50% 宽度) -->
   <p align="center">
     <a href="https://github.com/ChandlerIdeaCreator">
-      <img width="50%" src="https://github.com/ChandlerIdeaCreator/ChandlerIdeaCreator/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions"/>
+      <img width="60%" src="https://github.com/ChandlerIdeaCreator/ChandlerIdeaCreator/blob/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contributions"/>
     </a>
   </p>
 <!-- Replace YOUR-GITHUB-USERNAME with your actual GitHub username -->
