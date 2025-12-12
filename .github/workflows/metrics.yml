@@ -11,8 +11,7 @@ jobs:
       contents: write
     steps:
       # ---------------------------------------------------------
-      # 第一张图：3D 贡献日历 (Isocalendar)
-      # 替代挂掉的 Streak，生成一张漂亮的 3D 活跃度城市图
+      # 第一张图：3D 霓虹大都会 (Isocalendar)
       # ---------------------------------------------------------
       - name: Generate Isocalendar
         uses: lowlighter/metrics@latest
@@ -22,16 +21,16 @@ jobs:
           committer_token: ${{ secrets.METRICS_TOKEN }}
           user: ChandlerIdeaCreator
           
-          # 基础设置：空
           base: ""
-          config_theme: gruvbox
+          # 【关键修改1】使用 nightowl 主题，颜色更亮丽，像霓虹灯
+          config_theme: nightowl
           
-          # 开启 3D 日历插件
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year # 显示半年的数据，宽度刚好
+          # 【关键修改2】改成 full-year，显示整整一年的数据，城市更宏大
+          plugin_isocalendar_duration: full-year
 
       # ---------------------------------------------------------
-      # 第二张图：统计卡片 (你最满意的极简版本，保持不变)
+      # 第二张图：极简统计卡片 (保留 Gruvbox 风格)
       # ---------------------------------------------------------
       - name: Generate Stats & Langs
         uses: lowlighter/metrics@latest
@@ -42,6 +41,7 @@ jobs:
           user: ChandlerIdeaCreator
           
           base: header, metadata
+          # 这一张保持你原来的复古风格
           config_theme: gruvbox
           
           plugin_languages: yes
