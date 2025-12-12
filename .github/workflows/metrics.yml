@@ -27,7 +27,7 @@ jobs:
           
           plugin_isocalendar: yes
           # 【核心修改】显示整年，让城市看起来更宏伟
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
 
       # ---------------------------------------------------------
       # 第二张图：统计卡片 (保持 Gruvbox 复古风，形成对比)
