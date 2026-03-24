@@ -15,7 +15,7 @@
 <!-- 2. About Me Section -->
 ### 👨‍💻 About Me
 
-- 🎓 I'm a sophomore in **Computer Science and Technology** at **Northeastern University(NEU)** now (**GPA:3.85 4/123**).
+- 🎓 I'm a sophomore in **Computer Science and Technology** at **Northeastern University(NEU)** now (**GPA:3.89 4/123**).
 - 🧠 My passion lies at the intersection of theory and practice in **Deep Learning**, especially in **Computer Vision**.
 - 🌱 I'm currently diving deep into cutting-edge topics like **Noise Learning** and its applications in building robust models and working in **School Labs**(like [**HAIC**](https://cz26.github.io/CZ-HP/lab/), DeepCV).
 - 🚀 I strongly believe in the power of open source and am eager to contribute to the **PaddlePaddle** ecosystem.
