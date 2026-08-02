@@ -83,7 +83,7 @@
 </p>
 
 <p align="center">
-🎓 <strong>202410936@stu.neuq.edu.cn</strong>
+🎓 <strong>qianchangyang@mails.neu.edu.cn</strong>
   &nbsp;&nbsp;|&nbsp;&nbsp;
 <img src="https://img.icons8.com/fluency/48/000000/new-post.png" width="18" height="18" alt="NetEase Mail" /> <strong>qcyqcy1802145@163.com</strong>
 
